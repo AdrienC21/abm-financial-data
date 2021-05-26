@@ -133,3 +133,6 @@ dmypy.json
 
 # SBATCH log
 *.out
+
+# model folder
+model/

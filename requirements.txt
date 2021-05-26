@@ -1,1 +1,2 @@
 powerlaw==1.4.6
+mpl_finance==0.10.1
