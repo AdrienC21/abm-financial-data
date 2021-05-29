@@ -4,7 +4,7 @@ Implementation of an Agent Based Model on financial data and an AI algorithm app
 
 ## Quick Overview
 
-This project is based on an article written by Simone Alfaranoa, Friedrich Wagnerb and Thomas Luxa : [Estimation of Agent-Based Models: the case of an Asymmetric Herding Model](https://link.springer.com/article/10.1007/s10614-005-6415-1).
+This project is based on an article written by Simone Alfarano, Friedrich Wagnerb and Thomas Luxa : [Estimation of Agent-Based Models: the case of an Asymmetric Herding Model](https://link.springer.com/article/10.1007/s10614-005-6415-1).
 
 - The idea is to implement the model and to fit the ABM parameters on real financial data using different methods.
 
