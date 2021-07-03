@@ -8,7 +8,7 @@ This project is based on an article written by Simone Alfarano, Friedrich Wagner
 
 - The idea is to implement the model and to fit the ABM parameters on real financial data using different methods.
 
-- We also want to estimate the change of behaviour of our agents by using this article : [Specialization and herding behavior of trading firms in a financial market](https://www.researchgate.net/publication/237526350_Specialization_and_herding_behavior_of_trading_firms_in_a_financial_market) by Lillo & al.
+- We also want to estimate the change of behavior of our agents by using this article : [Specialization and herding behavior of trading firms in a financial market](https://www.researchgate.net/publication/237526350_Specialization_and_herding_behavior_of_trading_firms_in_a_financial_market) by Lillo & al.
 
 - Then, the aim of this project is to run many simulations in order to create an artificial (but realistic) dataset in order to train an AI which can predict the evolution of the log-return on a daily basis.
 
